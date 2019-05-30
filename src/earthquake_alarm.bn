@@ -1,0 +1,16 @@
+5
+Burglary
+.001
+Earthquake
+.002
+Alarm|Burglary,Earthquake
+.95
+.94
+.29
+.001
+John_Calls|Alarm
+.90
+.05
+Mary_Calls|Alarm
+.70
+.01

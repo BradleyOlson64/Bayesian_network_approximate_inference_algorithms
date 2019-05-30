@@ -1,0 +1,14 @@
+4
+Cloudy
+.5
+Sprinkler|Cloudy
+.1
+.5
+Rain|Cloudy
+.8
+.2
+Wet_Grass|Sprinkler,Rain
+.99
+.90
+.90
+.01
